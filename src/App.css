@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.header-section{
+  background: #F55A5A;
+  display: flex;
+  color: #FFFFFF;
+  text-align: center;
+
+  
+}
+
+.world-icon{
+  width: 24px;
+  height: 24px;
+  margin-top: 16px;
+  margin-right: 10px;
+  align-items: center;
+
+}
+
+card{
+  margin-bottom: 70px; 
+}
+.card-details{
+  display:flex;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #F5F5F5;
+  
+  
+}
+.about{
+  text-align: left;
+  max-width: 28%;
+}
+.destination-img{
+  margin-right: 25px;
+  width: 200px;
+
+}
+.google-map {
+  color: #918E9B;
+}
+
